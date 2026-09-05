@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/fave-exchange
+purpose: Early Fave exchange and service/value exchange experiment.
+status: historical-reference
+canonical_parent: davlindh/faving-journey-shaper
+capabilities: [exchange, services, value-transfer]
+vertical: platform-research
+omniframez_role: exchange-capability-predecessor
+evidence: {confidence: inferred, sources: [repository-name, repository-history]}
+harvest_action: inspect-and-harvest-unique-capabilities
+relations:
+  - contributes_to: Faving exchange capabilities
